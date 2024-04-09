@@ -1,5 +1,5 @@
 {
-  "name": "moment-hijri",
+  "name": "moment-hijri-fixed-by-me",
   "version": "2.1.2",
   "description": "A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js.",
   "author": {
@@ -23,13 +23,13 @@
     "test": "grunt test",
     "prepublish": "grunt test"
   },
-  "homepage": "https://github.com/xsoh/moment-hijri",
+  "homepage": "https://github.com/shayanea/moment-hijri",
   "bugs": {
-    "url": "https://github.com/xsoh/moment-hijri/issues"
+    "url": "https://github.com/shayanea/moment-hijri/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/xsoh/moment-hijri.git"
+    "url": "git@github.com:shayanea/moment-hijri.git"
   },
   "devDependencies": {
     "mocha": "^10.1.0",
